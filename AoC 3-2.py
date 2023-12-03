@@ -55,14 +55,6 @@ def calculate_gear_ratio(gears_positions):
                 break
     return result
 
-
-
-
-
-
-
-
-
 #-----Main code-------------------------------------#
 
 remove_EOB_in_each_row(list)
